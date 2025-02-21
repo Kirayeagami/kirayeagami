@@ -1,4 +1,4 @@
-<h1 align="center">Hi folks, I'm [Rajkumar Das] 👋</h1>
+<h1 align="center">Hi folks, I'm Rajkumar Das 👋</h1>
 
 ## 👨‍💻 About Me
 I'm a passionate developer with a keen interest in web technologies, system design, and cybersecurity. I enjoy building scalable applications, exploring new tech stacks, and working on open-source projects.
@@ -13,7 +13,7 @@ When I'm not coding, I'm either learning about spirituality, diving into philoso
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <!--![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)-->
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -23,7 +23,7 @@ When I'm not coding, I'm either learning about spirituality, diving into philoso
 ### 🏗️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)-->
 
 ---
 
