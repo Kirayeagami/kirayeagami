@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 I'm a passionate developer with a keen interest in web technologies, system design, and cybersecurity. I enjoy building scalable applications, exploring new tech stacks, and working on open-source projects.
 
-When I'm not coding, I'm either learning about spirituality, diving into philosophical discussions, or capturing moments through photography.
+When I'm not coding, I'm either learning about new thing ,spirituality, diving into philosophical discussions, or doing adventurous travels and Fun.
 
 ---
 
